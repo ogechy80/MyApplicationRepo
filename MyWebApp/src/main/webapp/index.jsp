@@ -1,5 +1,5 @@
 <html>
 <body>	
-<h2>God is good all the time and always for us!</h2>
+<h2>God is good all the time and always for us now and forever!</h2>
 </body>
 </html>
